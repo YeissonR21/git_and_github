@@ -71,6 +71,8 @@ Además, incluye ejemplos y espacio para agregar capturas de pantalla como evide
 ``` bash
   - git push -u origin main
 ```
+<img width="581" height="195" alt="image" src="https://github.com/user-attachments/assets/5e21dd66-05a5-435a-982e-b4dc3aec0815" />
 
 8. **Verificar en GitHub**
   - Revisar que los archivos aparezcan en el repositorio.
+<img width="1164" height="208" alt="image" src="https://github.com/user-attachments/assets/8cc081cd-e734-4d60-a1b4-0057272b8ddd" />
